@@ -175,6 +175,10 @@ body {
     line-height: 19px;
     color: #F16D7F;
 }
+.button__brow{
+    display: flex;
+    justify-content: center;
+}
 
 .button__browseAll {
     min-width: 270px;
@@ -185,9 +189,9 @@ body {
     text-align: center;
     font-weight: 400;
     margin-top: 50px;
-    margin-left: 50%;
     margin-bottom: 50px
 }
+
 
 @media(width: 768px) {
     .head_h1 {
